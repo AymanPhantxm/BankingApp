@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\C# Projects\BankingApp\BankingApp\bin\Debug\net9.0\BankingApp.exe
+C:\Users\Admin\Documents\C# Projects\BankingApp\BankingApp\bin\Debug\net9.0\BankingApp.deps.json
+C:\Users\Admin\Documents\C# Projects\BankingApp\BankingApp\bin\Debug\net9.0\BankingApp.runtimeconfig.json
+C:\Users\Admin\Documents\C# Projects\BankingApp\BankingApp\bin\Debug\net9.0\BankingApp.dll
+C:\Users\Admin\Documents\C# Projects\BankingApp\BankingApp\bin\Debug\net9.0\BankingApp.pdb
+C:\Users\Admin\Documents\C# Projects\BankingApp\BankingApp\obj\Debug\net9.0\BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\C# Projects\BankingApp\BankingApp\obj\Debug\net9.0\BankingApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C# Projects\BankingApp\BankingApp\obj\Debug\net9.0\BankingApp.AssemblyInfo.cs
+C:\Users\Admin\Documents\C# Projects\BankingApp\BankingApp\obj\Debug\net9.0\BankingApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C# Projects\BankingApp\BankingApp\obj\Debug\net9.0\BankingApp.dll
+C:\Users\Admin\Documents\C# Projects\BankingApp\BankingApp\obj\Debug\net9.0\refint\BankingApp.dll
+C:\Users\Admin\Documents\C# Projects\BankingApp\BankingApp\obj\Debug\net9.0\BankingApp.pdb
+C:\Users\Admin\Documents\C# Projects\BankingApp\BankingApp\obj\Debug\net9.0\BankingApp.genruntimeconfig.cache
+C:\Users\Admin\Documents\C# Projects\BankingApp\BankingApp\obj\Debug\net9.0\ref\BankingApp.dll
+C:\Users\Admin\Documents\C# Projects\BankingApp\BankingApp\obj\Debug\net9.0\BankingApp.sourcelink.json
